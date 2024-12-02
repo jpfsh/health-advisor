@@ -1,0 +1,8 @@
+certifi==2024.2.2
+Flask==3.0.2
+Flask-CORS==4.0.0
+geocoder==1.38.1
+googlemaps==4.10.0
+pymongo==4.6.1
+python-dotenv==1.0.1
+requests==2.31.0
